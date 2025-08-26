@@ -10,11 +10,7 @@ Here is the complete list of all the wireframes we've designed for the **PlateFl
 
 ### **2. Ingredients on Hand User Flow**
 
-* **Home Screen Wireframe**: (Same as above, as it's the starting point for both flows).
-Here is a preview of the wireframe for the **PlateFlow** Home Screen.
-
-http://googleusercontent.com/image_generation_content/0
-* 
+* **Home Screen Wireframe**: (Same as above, as it's the starting point for both flows). 
 * **Ingredient Input Screen Wireframe**: A clean screen with a search bar and a list of tags for users to input their ingredients.
 * **Search Results Page Wireframe**: A page that displays a list of recipes matching the user's ingredients, complete with filter and sort options.
 * **Recipe Details Screen Wireframe**: A comprehensive screen that shows all the details of a specific recipe, including ingredients, instructions, and nutritional information.
